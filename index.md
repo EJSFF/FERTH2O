@@ -8,14 +8,14 @@ EPA's ECHO Database includes water pollution data from the Toxics Release Invent
 <iframe title="2019 TRI Nitric Acid" aria-label="Dot Plot" id="datawrapper-chart-L0SDt" src="https://datawrapper.dwcdn.net/L0SDt/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
 
-### The DMR data for fertilizer manufacturing has 65 different pollutant, including several different N-containing compounds:
-  * Ammonia as N
-  * Ammonia as NH3
-  * Inorganic Nitrogen
-  * Nitrite nitrogen, dissolved (as N)
-  * Nitrogen, nitrate dissolved
-  * Organic Nitrogen
-  * Total Kjeldahl Nitrogen
-  * Urea
+### The DMR data for fertilizer manufacturing has 65 different pollutant, including several different N-containing compounds. Click to see data by facility.
+  * [Ammonia as N](https://datawrapper.dwcdn.net/JQxd3/1/)
+  * [Ammonia as NH3](https://datawrapper.dwcdn.net/I4j81/2/)
+  * [Inorganic Nitrogen](https://datawrapper.dwcdn.net/Pq4C0/1/)
+  * Nitrite nitrogen, dissolved (as N) <i>(only 1 facility)</i>
+  * [Nitrogen, nitrate dissolved](https://datawrapper.dwcdn.net/x25k6/1/)
+  * [Organic Nitrogen](https://datawrapper.dwcdn.net/kJATB/1/)
+  * [Total Kjeldahl Nitrogen](https://datawrapper.dwcdn.net/CTPdo/1/)
+  * Urea <i>(only 1 facility)</i>
   
   
