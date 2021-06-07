@@ -12,9 +12,8 @@ The DMR data for fertilizer manufacturing has 65 different pollutants, including
   * [Total Kjeldahl Nitrogen](https://datawrapper.dwcdn.net/CTPdo/1/)
   * Urea <i>(only 1 facility)</i>
  
-<iframe title="2019 DMR Nitrogen Pollution from Fertilizer Manufacturing" aria-label="Map" id="datawrapper-chart-Wepun" src="https://datawrapper.dwcdn.net/Wepun/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="487"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="2019 DMR Nitrogen Pollution" aria-label="Map" id="datawrapper-chart-Wepun" src="https://datawrapper.dwcdn.net/Wepun/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="533"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
- <i>Points are scaled by total lbs/year of pollutant and colored by specific pollutant type.</i>
  
 ###TRI
  
