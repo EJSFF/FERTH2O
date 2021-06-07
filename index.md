@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+EPA's ECHO Database includes water pollution data from the Toxics Release Inventory (TRI) and from Discharge Monitoring Reports (DMRs). The most recent TRI data available is from 2019, while the most recent DMR data is from 2021. Below, are summaries focused on NH3 (and other potentially relevant forms of N) from 2019 for all facilities matching the point source category 418 — fertilizer manufacturing.
 
-You can use the [editor on GitHub](https://github.com/EJSFF/FERTH2O/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### The TRI data for fertilizer manufacturing has 71 different chemicals, including two primarily N compounds — ammonia and nitric acid. There were 41 facilities with values for ammonia in 2019, and 14 facilities with values for nitric acid. <i>(Note: the values shown below are for TOTAL indirect and direct discharge as coded in the ECHO database; however, in some cases the total value is NA while there may be values for indirect discharge values.)</i>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe title="2019 TRI NH3" aria-label="Dot Plot" id="datawrapper-chart-Y16mK" src="https://datawrapper.dwcdn.net/Y16mK/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="978"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
+  
+<iframe title="2019 TRI Nitric Acid" aria-label="Dot Plot" id="datawrapper-chart-L0SDt" src="https://datawrapper.dwcdn.net/L0SDt/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+</script>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EJSFF/FERTH2O/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### The DMR data for fertilizer manufacturing has 65 different pollutant, including several different N-containing compounds:
+  * Ammonia as N
+  * Ammonia as NH3
+  * Inorganic Nitrogen
+  * Nitrite nitrogen, dissolved (as N)
+  * Nitrogen, nitrate dissolved
+  * Organic Nitrogen
+  * Total Kjeldahl Nitrogen
+  * Urea
+  
+  
