@@ -12,6 +12,7 @@ The DMR data for fertilizer manufacturing has 65 different pollutants, including
  
 <iframe title="2019 DMR Nitrogen Pollution from Fertilizer Manufacturing" aria-label="Map" id="datawrapper-chart-Wepun" src="https://datawrapper.dwcdn.net/Wepun/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="487"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
+ 
 
 The TRI data for fertilizer manufacturing has 71 different chemicals, including two primarily N compounds — ammonia and nitric acid. There were 41 facilities with values for ammonia in 2019, and 14 facilities with values for nitric acid. <i>(Note: the values shown below are for TOTAL indirect and direct discharge as coded in the ECHO database; however, in some cases the total value is NA while there may be values for indirect discharge values.)</i>
 
