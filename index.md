@@ -1,6 +1,6 @@
 EPA's ECHO Database includes water pollution data from the Toxics Release Inventory (TRI) and from Discharge Monitoring Reports (DMRs). The most recent TRI data available is from 2019, while the most recent DMR data is from 2021. Below, are summaries focused on NH3 (and other potentially relevant forms of N) from 2019 for all facilities matching the point source category 418 — fertilizer manufacturing.
 
-The DMR data for fertilizer manufacturing has 65 different pollutant, including several different N-containing compounds. Click to see data by facility.
+The DMR data for fertilizer manufacturing has 65 different pollutants, including several different N-containing compounds. Click to see data by facility.
   * [Ammonia as N](https://datawrapper.dwcdn.net/JQxd3/1/)
   * [Ammonia as NH3](https://datawrapper.dwcdn.net/I4j81/2/)
   * [Inorganic Nitrogen](https://datawrapper.dwcdn.net/Pq4C0/1/)
