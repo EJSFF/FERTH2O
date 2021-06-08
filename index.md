@@ -1,3 +1,5 @@
+This page hosts summarries of data on N water pollution from fertilizer manufacturing. See [HERE](https://ejsff.github.io/FERT/) for data on air pollution and GHG emissions from fertilizer manufacturing.
+
 # WATER POLLUTION FROM FERTILIZER MANUFACTURING
 
 EPA's ECHO Database includes water pollution data from the Toxics Release Inventory (TRI) and from Discharge Monitoring Reports (DMRs). The most recent TRI data available is from 2019, while the most recent DMR data is from 2021. Below, are summaries focused on NH3 (and other potentially relevant forms of N) from 2019 for all facilities matching the point source category 418 — fertilizer manufacturing.
