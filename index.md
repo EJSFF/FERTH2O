@@ -26,10 +26,7 @@ The TRI data for fertilizer manufacturing has 71 different chemicals, including 
 </script>
 
 <br> 
-TRI discharges ranked by facility: <i>(Note: the values shown below are for TOTAL indirect and direct discharge as coded in the ECHO database; however, in some cases the total value is NA while there may be values for indirect discharge values.)</i>
+TRI indirect and direct NH3 discharges, sorted by magnitude of direct disharge: 
  
-<iframe title="2019 TRI NH3" aria-label="Dot Plot" id="datawrapper-chart-Y16mK" src="https://datawrapper.dwcdn.net/Y16mK/2/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="978"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
-</script>
-  
-<iframe title="2019 TRI Nitric Acid" aria-label="Dot Plot" id="datawrapper-chart-L0SDt" src="https://datawrapper.dwcdn.net/L0SDt/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="422"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
+<iframe title="2019 TRI NH3" aria-label="Stacked Bars" id="datawrapper-chart-pppER" src="https://datawrapper.dwcdn.net/pppER/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="1133"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",(function(e){if(void 0!==e.data["datawrapper-height"]){var t=document.querySelectorAll("iframe");for(var a in e.data["datawrapper-height"])for(var r=0;r<t.length;r++){if(t[r].contentWindow===e.source)t[r].style.height=e.data["datawrapper-height"][a]+"px"}}}))}();
 </script>
