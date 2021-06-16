@@ -1,4 +1,4 @@
-This page hosts summarries of data on N water pollution from fertilizer manufacturing. See [HERE](https://ejsff.github.io/FERT/) for data on air pollution and GHG emissions from fertilizer manufacturing.
+This page hosts summarries of data on N water pollution from fertilizer manufacturing. See [HERE](https://ejsff.github.io/FERT/) for data on air pollution and GHG emissions from fertilizer manufacturing and EJ demographic data.
 
 # WATER POLLUTION FROM FERTILIZER MANUFACTURING
 
